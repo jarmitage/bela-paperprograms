@@ -1,6 +1,6 @@
 # Bela x PaperPrograms
 
-Example of interaction between Bela and PaperPrograms
+Example of interaction between [Bela](http://bela.io) and [PaperPrograms](http://paperprograms.org).
 
 See for more: https://github.com/acarabott/paperprograms/tree/bela
 
